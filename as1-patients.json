@@ -1,0 +1,26 @@
+[
+    {
+        "firstName": "Max",
+        "lastName": "Schwarzmueller",
+        "age": 29,
+        "history": [
+            {"disease": "cold", "treatment": "To stay at home, to drink a lot water, to take Gripex"}
+        ]    
+    },
+    {
+        "firstName": "John",
+        "lastName": "Smith",
+        "age": 29,
+        "history": [
+            {"disease": "headache", "treatment": "To take the painkiller."}
+        ]    
+    },
+    {
+        "firstName": "Jan",
+        "lastName": "Kowalski",
+        "age": 36,
+        "history": [
+            {"disease": "broke leg", "treatment": "To splint a broken leg."}
+        ]    
+    }
+]
